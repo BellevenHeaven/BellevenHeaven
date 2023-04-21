@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olaaaa
 
-<!--
-**BellevenHeaven/BellevenHeaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨I'm Belleven and i don't know so much about programming! but sometimes i code interesting stuff.  ฅ(＾・ω・＾ฅ)
 
-Here are some ideas to get you started:
-
+😾 I LIKE CATS ɴʏᴀ~ 🙀
+- Programming languages that i know...
+  - Java
+  - Python
+  - C#
+  - JavaScript / TypeScript
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Nothing at all.
+- 🌱 I’m currently learning Java for Minecraft mods. 
+- 📫 How to reach me:
+  - Telegram: [Belleven](https://t.me/BellevenYei)
+- 😄 Pronouns: She/Her
+
+| [![My Discord](https://lanyard.cnrad.dev/api/794025604633985074)](https://discord.com/users/794025604633985074) |
