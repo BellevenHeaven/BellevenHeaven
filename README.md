@@ -12,7 +12,7 @@
   - Nothing at all.
 - 🌱 I’m currently learning Java for Minecraft mods. 
 - 📫 How to reach me:
-  - Telegram: [Belleven](https://t.me/BellevenYei)
-- 😄 Pronouns: She/Her
+ nononono
+- 😄 Pronouns: He/Him
 
 | [![My Discord](https://lanyard.cnrad.dev/api/794025604633985074)](https://discord.com/users/794025604633985074) |
